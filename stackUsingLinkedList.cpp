@@ -101,6 +101,9 @@ class stack
 
                 case 3:
                 if (!stack.isEmpty())
+                {
+                    stack.peek();
+                }
                 
             }
         }
