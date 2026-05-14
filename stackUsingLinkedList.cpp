@@ -34,7 +34,8 @@ class stack
         return value;
     }
 
-    void pop(){
+    void pop()
+    {
         if (isEmpty())
         {
             cout << "Stack is empty." << endl;
@@ -43,5 +44,8 @@ class stack
         Node *temp = top;
         top = top->next;
         cout << "Popped value: " << top->data << endl;
-        
+    }
+
+    void peek()
+    
 }
