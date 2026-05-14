@@ -115,8 +115,9 @@ class stack
                 break;
 
                 default:
-                
+                cout << "invalid choice. Try again." << endl;
             }
+            cout << endl;
         }
     }
 }
