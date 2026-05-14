@@ -111,6 +111,7 @@ class stack
                 break;
 
                 case 4:
+                cout << "Exiting program." << endl;
                 
             }
         }
