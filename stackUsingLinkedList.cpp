@@ -104,6 +104,13 @@ class stack
                 {
                     stack.peek();
                 }
+                else
+                {
+                    cout << "Stack is empty.No top value." << endl;
+                }
+                break;
+
+                case 4:
                 
             }
         }
