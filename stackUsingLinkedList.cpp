@@ -100,6 +100,7 @@ class stack
                 break;
 
                 case 3:
+                if (!stack.isEmpty())
                 
             }
         }
