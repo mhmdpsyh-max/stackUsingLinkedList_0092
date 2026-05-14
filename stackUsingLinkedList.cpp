@@ -65,5 +65,9 @@ class stack
     }
 
     bool isEmpty()
-    
+    {
+        stack stack;
+
+        
+    }
 }
